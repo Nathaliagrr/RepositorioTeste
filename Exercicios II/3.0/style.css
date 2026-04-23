@@ -1,0 +1,20 @@
+h1, h2{
+    color: blueviolet;
+}
+
+
+div > .done{
+    color: firebrick;
+}
+
+div ul {
+    color: blue;
+}
+
+li.done{
+    color: seagreen;
+}
+
+p.done {
+    font-size: 0.5rem;
+}

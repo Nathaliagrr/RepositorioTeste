@@ -3,10 +3,22 @@
 .box {
     background-color: blue;
     padding: 10px;
+    
   }
   
   p {
     color: yellow;
     margin: 0;
     padding: 0;
+  }
+
+  body{
+    border: 10px solid purple;
+    margin: 10px;
+  }
+  .white-text{
+    color:white;
+  }
+  .inner-box{
+    background-color: red;
   }
