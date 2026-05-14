@@ -1,5 +1,6 @@
 img {
     height: 300px;
     width: 400px;
-    
+    display: flex;
+    margin: 0 auto;
 }
